@@ -1,0 +1,51 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    padding: 395px 0;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.first h1
+{
+    color: #212529;
+    font-size: 88px;
+
+}
+
+.first h3
+{
+    color:#212529;
+    font-style: italic;
+    font-size: 28px;
+    margin-bottom: 2em;
+}
+
+.first a
+{
+background-color: #1d809f;
+color: #fff;
+padding: 20px 40px;
+border-radius: 7px
+}
+
+.first a:hover
+{
+background-color: #16718d;
+}
+
+
+
+
